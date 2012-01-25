@@ -1,0 +1,3 @@
+== Python Turing Machine Interpreter ==
+
+A simple python interpreter for Hopcroft-Ullman (7-tuple) turing machine.
